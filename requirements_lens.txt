@@ -1,0 +1,5 @@
+streamlit>=1.30
+torch>=2.0
+transformers>=4.30
+plotly>=5.18
+numpy>=1.24
